@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 2em;
+    background-color: #D8D0D1;
+}
+
+h1{
+	font-family: 'Oswald', sans-serif;
+}
+
+.large-img{
+  max-width:50%;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 2px;
+  border-radius: 25px;
+  border-color: #BFA7A7;
+  padding: 10px;
+  background-color: white;
+}
